@@ -18,4 +18,6 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-![image]()
+##示例及运行截图
+
+![image](https://github.com/2359634711/QQmusic/demoIMG/IMG.png)
